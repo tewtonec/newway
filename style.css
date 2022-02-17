@@ -52,7 +52,7 @@ body {
   padding: 15px 20px 24px 30px;
   overflow: auto;
 
-  background-color: #5c8ab3;
+  background-color: hsl(253, 77%, 66%);
   background-image: url("pattern.svg");
   background-repeat: repeat;
 }
@@ -86,7 +86,7 @@ body {
   font-size: 12px;
   line-height: 16px;
 
-  color: #6994ba;
+  color: #400766;
 }
 
 .chat-message-button {
@@ -130,7 +130,7 @@ body {
   display: flex;
   align-items: center;
   padding: 32px 20px;
-  background-color: #265681;
+  background-color: #350655;
 }
 
 .chat-form-input {
